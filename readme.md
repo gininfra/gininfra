@@ -8,16 +8,16 @@ Currently, I'm working as a Cloud DevOps Engineer in S16 Research Ventures, a We
 Starting my professional career as a Network-System-UNIX-Linux Engineer from 2007-2019. 
 
 As a summary intro, my work fields cover as follows:
-- Network Engineer
-- System Engineer
-- UNIX Engineer
-- Linux Engineer
-- Windows Administrator
+- Network Engineering
+- System Engineering
+- UNIX Engineering
+- Linux Engineering
+- Windows Administration
 - Project Leader
-- Cloud Engineer
-- DevOps Engineer
-- Associate Product Owner
-- Test Engineer
+- Cloud Engineering
+- DevOps Engineering
+- Blockchain Product Owner
+- Test Engineering
 
 My stacks capabilities:
 - Python Scripting
@@ -33,13 +33,15 @@ My stacks capabilities:
 - Text Editor: Vi/Vim, Visual Studio Code
 - Workspaces: Atlassian Confluence, Jira, Trello, Notion, Figma, Miro, Google Workspaces)
 
-I'm an IT&Telco Infrastructure Engineer plus a Project Leader with 17 years of professional experience and certifications in: 
--  Cisco Certified Network Professional Routing Switching
--  Cisco Certified Network Professional Enterprise
--  Cisco Certified Specialist Enterprise Core
--  Cisco Certified Specialist Enterprise Advanced Infrastructure Implementation
+I'm an IT&Telco Infrastructure Engineer plus a Project Leader with 17 years of professional experience and certifications in:
+- Amazon Web Services Certified Developer Associate
+- Amazon Web Services Certified Solutions Architect
 - Amazon Web Services Certified Cloud Practitioner
 - Amazon Web Services reStart Graduate 3-Months Program
+- Cisco Certified Network Professional Routing Switching
+- Cisco Certified Network Professional Enterprise
+- Cisco Certified Specialist Enterprise Core
+- Cisco Certified Specialist Enterprise Advanced Infrastructure Implementation
 
 Linktree: https://linktr.ee/gitaginanjar
 
